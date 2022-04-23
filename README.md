@@ -50,7 +50,5 @@ _Q_
 A
 
 
-Copyright
-============
-Copyright 2014 Chris Hafey [chafey@gmail.com](mailto:chafey@gmail.com)
+
  
